@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoExtensions", "DemoExten
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoYield", "DemoYield\DemoYield.csproj", "{C6242CA7-9D7E-4E91-ABE4-B5425EC26EE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLinq", "DemoLinq\DemoLinq.csproj", "{9D175977-FC04-4464-9E14-EE09711F8437}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{C6242CA7-9D7E-4E91-ABE4-B5425EC26EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6242CA7-9D7E-4E91-ABE4-B5425EC26EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6242CA7-9D7E-4E91-ABE4-B5425EC26EE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D175977-FC04-4464-9E14-EE09711F8437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D175977-FC04-4464-9E14-EE09711F8437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D175977-FC04-4464-9E14-EE09711F8437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D175977-FC04-4464-9E14-EE09711F8437}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
