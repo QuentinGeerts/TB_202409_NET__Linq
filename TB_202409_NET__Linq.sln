@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLambda", "DemoLambda\De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoExtensions", "DemoExtensions\DemoExtensions.csproj", "{62E47CE4-828A-4CE8-9657-E7E563FBB36E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoYield", "DemoYield\DemoYield.csproj", "{C6242CA7-9D7E-4E91-ABE4-B5425EC26EE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{62E47CE4-828A-4CE8-9657-E7E563FBB36E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62E47CE4-828A-4CE8-9657-E7E563FBB36E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62E47CE4-828A-4CE8-9657-E7E563FBB36E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6242CA7-9D7E-4E91-ABE4-B5425EC26EE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6242CA7-9D7E-4E91-ABE4-B5425EC26EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6242CA7-9D7E-4E91-ABE4-B5425EC26EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6242CA7-9D7E-4E91-ABE4-B5425EC26EE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
